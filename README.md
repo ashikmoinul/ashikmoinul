@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Ashik Md. Moinul Hossain</h1>
 <h3 align="center">Crafting Beautiful and Functional Mobile Experiences 📱🚀</h3>
 
