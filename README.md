@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashikmoinul" alt="ashikmoinul" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter Projects](https://github.com/ashikmoinul/task_manager)
+- 🔭 I’m currently working on [Flutter Projects](https://github.com/ashikmoinul/Social-Media-App-Ostad-Pro-Batch-Project)
 
 - 🌱 I’m currently learning **Flutter Framework | Dart Programming | Postman API | MongoDB**
 
