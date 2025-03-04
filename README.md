@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashik Md. Moinul Hossain</h1>
-<h3 align="center">A passionate frontend developer from InCrafting Beautiful and Functional Mobile Experiences 📱🚀</h3>
+<h3 align="center">A passionate Flutter Developer and crafting beautiful and functional mobile experiences 📱🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikmoinul&label=Profile%20views&color=0e75b6&style=flat" alt="ashikmoinul" /> </p>
 
